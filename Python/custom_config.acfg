@@ -1,0 +1,5 @@
+server:ip:192.168.1.1
+server:port:8080
+database:host:localhost
+database:user:admin
+database:password:kirillsoso
